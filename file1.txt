@@ -1,4 +1,6 @@
 this is file 1
 one more line
-dev change
-mydev change
+mydev change 2
+master change 1
+br1 change 1
+br1 change 2
