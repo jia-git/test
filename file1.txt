@@ -1,3 +1,4 @@
 this is file 1
 one more line
 mydev change 2
+master change 1
