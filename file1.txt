@@ -3,3 +3,4 @@ one more line
 mydev change 2
 master change 1
 br1 change 1
+br1 change 2
